@@ -1,0 +1,2 @@
+C:\Users\foi.LABOS\Desktop\Jozo_je_kralj\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.AssemblyReference.cache
+C:\Users\foi.LABOS\Desktop\Jozo_je_kralj\Evaluation Manager\Evaluation Manager\obj\Debug\Evaluation Manager.csproj.SuggestedBindingRedirects.cache
